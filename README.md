@@ -10,7 +10,6 @@
 <h4>도구 및 언어 : Eclipse | Java, Python, JQuery, JavaScript, CSS, HTML, BootStrap, Naver API, ApexChart API</h4>
 
 <hr>
-
 <br>
 
 <h3>주요 기능</h3>
@@ -23,6 +22,8 @@
   - 거래빈도, 수익률, 매매금액 차트 시각화
   - 일지 기록 수정, 차트 파일 변환 다운로드 기능
 - 개인 회원의 키워드 지정으로 인한 맞춤 뉴스 제공 기능 (+검색 기능)
+
+<br>
 
 ----
 
